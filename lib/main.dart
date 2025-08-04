@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:prf_task/screen/collect_user_data.dart';
+import 'package:prf_task/app.dart';
 
 void main() {
-  runApp(const CollectUserData());
+  runApp(const PRFTaskApp());
 }
 

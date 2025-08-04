@@ -2,11 +2,11 @@
 
 a. What is the earliest date you can join?
 
-   - I can join starting September 1st.
+- I can join starting September 1st.
 
 b. Please mention your years of experience with Android programming.
 
-   - I have 1 year of job experience in Android development and have been practicing Android app development for 4 years now.
+- I have 1 year of job experience in Android development and have been practicing Android app development for 4 years now.
 
 3. Write SQL query for SQL Server:
 
