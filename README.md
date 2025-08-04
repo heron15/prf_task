@@ -1,11 +1,31 @@
 # General Question
 
-1. What is the earliest date you can join?
+a. What is the earliest date you can join?
 
    - I can join starting September 1st.
 
-2. Please mention your years of experience with Android programming.
+b. Please mention your years of experience with Android programming.
+
    - I have 1 year of job experience in Android development and have been practicing Android app development for 4 years now.
+
+3. Write SQL query for SQL Server:
+
+   i. Duplicate "Emp_ID" from the table "tbl_Emp".
+
+   ```sql
+   SELECT Emp_ID, COUNT(*) as DuplicateCount
+   FROM tbl_Emp
+   GROUP BY Emp_ID
+   HAVING COUNT(*) > 1;
+   ```
+
+   ii. Last 5 entered data (entry_date).
+
+   ```sql
+   SELECT TOP 5 *
+   FROM tbl_Emp
+   ORDER BY entry_date DESC;
+   ```
 
 # prf_task
 
