@@ -1,3 +1,12 @@
+# General Question
+
+1. What is the earliest date you can join?
+
+   - I can join starting September 1st.
+
+2. Please mention your years of experience with Android programming.
+   - I have 1 year of job experience in Android development and have been practicing Android app development for 4 years now.
+
 # prf_task
 
 A new Flutter project.
